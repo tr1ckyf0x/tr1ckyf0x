@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sr. iOS Software Engineer from Saint Petersburg, currently working for @epam.
+I am Sr. iOS Software Engineer, currently working for @epam.
 
 <br>
 
